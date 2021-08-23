@@ -3,7 +3,8 @@ body{
 color:rgb(34, 54, 59);
     text-align: center;
     font-family:Arial;
-
+margin: 0;
+padding: 0;
 }
 #cabecera{
     background:#33F;
